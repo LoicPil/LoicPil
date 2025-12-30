@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @LoicPil
-- 👀 I’m interested in math and programmation
-- 🌱 I’m currently learning math and programmation at university
-- I know python, SQL, java, MIPS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact me on my instagram
+# 👋 Hi, I'm Loïc Pilette
+
+## 🎓 About Me
+Mathematics student in my final year of Bachelor's at university, heading to Master's next year.
+
+## 💻 Skills & Learning
+- **Languages:** Python, SQL, Java, MIPS
+- **Tools:** VS Code, IntelliJ IDEA
+- **Currently Learning:** 
+  - Mathematics (university curriculum)
+  - Computer Science with a focus on AI
+  - Deep learning: neural networks, CNNs, RNNs
+
+## ⌨️ Setup
+- **Keyboard:** Royal Kludge RKM75 (Blue, Brown switches)
+
+## 📫 Contact
+- **Instagram:** [@piletteloic](https://instagram.com/piletteloic)
+- **Location:** Mons, Belgium
+
+---
+
+*Most of my repositories are private as they contain university materials.*m
 
 <!---
 LoicPil/LoicPil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
