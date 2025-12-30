@@ -8,8 +8,8 @@ Mathematics student in my final year of Bachelor's at university, heading to Mas
 - **Tools:** VS Code, IntelliJ IDEA
 - **Currently Learning:** 
   - Mathematics (university curriculum)
-  - Computer Science with a focus on AI
-  - Deep learning: neural networks, CNNs, RNNs
+  - Computer Science
+  - AI: deep learning with neural networks, CNNs, RNNs
 
 ## ⌨️ Setup
 - **Keyboard:** Royal Kludge RKM75 (Blue, Brown switches)
@@ -18,10 +18,11 @@ Mathematics student in my final year of Bachelor's at university, heading to Mas
 - **Instagram:** [@piletteloic](https://instagram.com/piletteloic)
 - **Location:** Mons, Belgium
 
+Feel free to reach out if you're interested in connecting!
+
 ---
 
-*Most of my repositories are private as they contain university materials.*m
-
+*Most of my repositories are private as they contain university materials.*
 <!---
 LoicPil/LoicPil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
