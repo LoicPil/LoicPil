@@ -21,7 +21,7 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
 ![](https://nirzak-streak-stats.vercel.app/?user=LoicPil&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicPil&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LoicPil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![LoicPil's GitHub stats](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil)](https://github.com/LoicPil/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
