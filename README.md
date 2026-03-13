@@ -17,11 +17,9 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piletteloic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loicpilette@gmail.com)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LoicPil&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LoicPil&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicPil&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LoicPil's GitHub stats](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil)](https://github.com/LoicPil/github-readme-stats)
+
+[![LoicPil's GitHub stats](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil&theme=tokyonight)](https://github.com/LoicPil/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
