@@ -19,8 +19,12 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
 ## 📊 GitHub Stats:
 
 
-[![LoicPil's GitHub stats](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil&theme=tokyonight)](https://github.com/LoicPil/github-readme-stats)
-
+<a href="https://github.com/LoicPil/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="https://github.com/LoicPil/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/top-langs?username=LoicPil&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/?username=LoicPil&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
