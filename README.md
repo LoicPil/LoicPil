@@ -23,7 +23,7 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
 <div align="center">
   <img src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil&theme=tokyonight&rank_icon=github" />
   <br/>
-  <img src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/top-langs?username=LoicPil&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/top-langs?username=LoicPil&layout=compact&langs_count=8&card_width=320&theme=tokyonight&exclude_repo=IntroDeepLearning,dotfiles" />
 </div>
 
 
