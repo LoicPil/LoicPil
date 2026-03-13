@@ -26,9 +26,6 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
   <img height=200 align="center" src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/top-langs?username=LoicPil&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LoicPil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LoicPil&icon=0&color=0)](https://visitcount.itsvg.in)
