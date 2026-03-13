@@ -27,7 +27,7 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
 </a>
 
 ## 🏆 GitHub Trophies
-![](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/?username=LoicPil&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LoicPil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
