@@ -8,8 +8,7 @@
 
 Mathematics student in my final year of Bachelor's at the **University
 of Mons**, heading into a Master's next year. Passionate about data
-and programming — I like understanding things from the ground up,
-whether that's a neural network or a language's ownership model.
+and programming — I like understanding things from the ground up.
 
 ## 🔭 Currently
 
