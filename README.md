@@ -64,6 +64,5 @@ and programming — I like understanding things from the ground up.
 
 *Most of my repositories are private, as they contain university materials.*
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
