@@ -1,24 +1,48 @@
+<div align="center">
+
 # 👋 Hi, I'm Loïc Pilette
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Math+student+%E2%86%92+Data+%2B+Programming;Learning+Rust%2C+one+chapter+at+a+time;Currently+diving+into+Deep+Learning" alt="Typing SVG" />
+
+</div>
+
 ## 🎓 About Me
-Mathematics student in my final year of Bachelor's at the University of Mons, heading to a Master's next year. Passionate about data,and programming.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Mathematics student in my final year of Bachelor's at the **University
+of Mons**, heading into a Master's next year. Passionate about data
+and programming — I like understanding things from the ground up,
+whether that's a neural network or a language's ownership model.
 
-## 💫 About Me:
-- 🌱 Currently learning: Deep Learning (CNNs, RNNs), Rust, and university Mathematics & CS
+## 🔭 Currently
+
+- 🌱 Learning **Deep Learning** (CNNs, RNNs), **Rust**, and university Mathematics & CS
+- 🦀 Building [**rust-todo-cli**](https://github.com/LoicPil/rust-todo-cli) — a multi-list CLI todo app, built chapter-by-chapter through *The Rust Programming Language*
 - 💬 Ask me about: Python, SQL, Java, MIPS, or AI/Neural Networks
-- ⌨️ Daily driver: Royal Kludge RKM75 (Blue & Brown switches)
 - 📍 Based in Mons, Belgium
-- ⚡ Fun fact: Most of my repos are private — they contain university coursework!
+- ⌨️ Daily driver: Royal Kludge RKM75 (Blue & Brown switches)
+- ⚡ Fun fact: most of my repos are private — they're university coursework
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piletteloic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loicpilette@gmail.com)
+## 💻 Tech Stack
 
-## 📊 GitHub Stats:
+<div align="center">
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</div>
+
+## 📌 Featured project
+
+<div align="center">
+
+[![rust-todo-cli](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/pin/?username=LoicPil&repo=rust-todo-cli&theme=tokyonight)](https://github.com/LoicPil/rust-todo-cli)
+
+</div>
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api?username=LoicPil&theme=tokyonight&rank_icon=github" />
@@ -26,9 +50,23 @@ Mathematics student in my final year of Bachelor's at the University of Mons, he
   <img src="https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/top-langs?username=LoicPil&layout=compact&langs_count=8&card_width=320&theme=tokyonight&exclude_repo=IntroDeepLearning,dotfiles,Hyprland-Dots,free-programming-books,zsh-backup,github-readme-stats,omv-nas-config,githubTest,TPJAVA" />
 </div>
 
+## 🌐 Socials
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piletteloic)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loicpilette@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=LoicPil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Most of my repositories are private as they contain university materials.*
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Most of my repositories are private, as they contain university materials.*
+
+<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+
+</div>
