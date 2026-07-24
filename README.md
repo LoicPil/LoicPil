@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Loïc Pilette
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Math+student+%E2%86%92+Data+%2B+Programming;Learning+Rust%2C+one+chapter+at+a+time;Currently+diving+into+Deep+Learning" alt="Typing SVG" />
-
 </div>
 
 ## 🎓 About Me
@@ -15,7 +13,7 @@ whether that's a neural network or a language's ownership model.
 
 ## 🔭 Currently
 
-- 🌱 Learning **Deep Learning** (CNNs, RNNs), **Rust**, and university Mathematics & CS
+- 🌱 Learning **Rust**, and university Mathematics & CS
 - 🦀 Building [**rust-todo-cli**](https://github.com/LoicPil/rust-todo-cli) — a multi-list CLI todo app, built chapter-by-chapter through *The Rust Programming Language*
 - 💬 Ask me about: Python, SQL, Java, MIPS, or AI/Neural Networks
 - 📍 Based in Mons, Belgium
