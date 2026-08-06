@@ -13,7 +13,7 @@ and programming — I like understanding things from the ground up.
 ## 🔭 Currently
 
 - 🌱 Learning **Rust**, and university Mathematics & CS
-- 🦀 Building [**rust-todo-cli**](https://github.com/LoicPil/rust-todo-cli) — a multi-list CLI todo app, built chapter-by-chapter through *The Rust Programming Language*
+- 🦀 Build [**rust-todo-cli**](https://github.com/LoicPil/rust-todo-cli) — a multi-list CLI todo app, built chapter-by-chapter through *The Rust Programming Language*
 - 💬 Ask me about: Python, SQL, Java, MIPS, or AI/Neural Networks
 - 📍 Based in Mons, Belgium
 - ⌨️ Daily driver: Royal Kludge RKM75 (Blue & Brown switches)
