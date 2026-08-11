@@ -14,7 +14,7 @@ and programming — I like understanding things from the ground up.
 
 - 🌱 Learning **Rust**, and university Mathematics & CS
 - 🦀 Build [**rust-todo-cli**](https://github.com/LoicPil/rust-todo-cli) — a multi-list CLI todo app, built chapter-by-chapter through *The Rust Programming Language*
-- 💬 Ask me about: Python, SQL, Java, MIPS, or AI/Neural Networks
+- 💬 Ask me about: Python, SQL, Java, MIPS. 
 - 📍 Based in Mons, Belgium
 - ⌨️ Daily driver: Royal Kludge RKM75 (Blue & Brown switches)
 - ⚡ Fun fact: most of my repos are private — they're university coursework
