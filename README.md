@@ -37,6 +37,8 @@ and programming — I like understanding things from the ground up.
 
 [![rust-todo-cli](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/pin/?username=LoicPil&repo=rust-todo-cli&theme=tokyonight)](https://github.com/LoicPil/rust-todo-cli)
 
+[![rust-interval-enclosure](https://github-readme-stats-sandy-delta-i224lrnzwc.vercel.app/api/pin/?username=LoicPil&repo=rust-interval-enclosure&theme=tokyonight)](https://github.com/LoicPil/rust-interval-enclosure)
+
 </div>
 
 ## 📊 GitHub Stats
